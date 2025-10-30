@@ -10,20 +10,25 @@ title: RESOURCEFUL workshop series
 
 ## Series description
 
-The RESOURCEFUL workshop series is an active research initiative that aims to bring attention to the problems of applying computational and linguistic tools for the collection, analysis, and application of resources such as text corpora or other modalities. The initiative brings together researchers from the fields of natural language processing, linguistics and computational linguistics.
+The RESOURCEFUL workshop series is an active research initiative that aims to bring attention to the problems of applying computational and linguistic tools for collection, analysis, and application of resources of text, images or other modalities. The initiative brings together researchers from natural language processing, linguistics, and related fields.
 
 ## Previous editions
 
-[The first workshop](https://gu-clasp.github.io/resourceful-2020/) focused on the size of the resources available for natural language processing. It was co-located with [the 8th Swedish Language Technology Conference (SLTC)](https://spraakbanken.gu.se/en/sltc2020), University of Gothenburg, Sweden.
+[The first workshop](https://gu-clasp.github.io/resourceful-2020/) focused on the size of resources available for natural language processing and approaches of dealing with data bottlenecks. It was co-located with [the 8th Swedish Language Technology Conference (SLTC)](https://spraakbanken.gu.se/en/sltc2020), University of Gothenburg, Sweden.
 
-[The second iteration of the workshop](https://resourceful-workshop.github.io/resourceful-2023/) explored the role of the kind and the quality of resources that are available to us and challenges and directions for constructing new resources in light of the latest trends in natural language processing. It was co-located with [the 24th Nordic Conference on Computational Linguistics (NoDaLiDa)](https://www.nodalida2023.fo/nodalida-2023-tórshavn-faroe-islands), Tórshavn, Faroe Islands.
+[The second edition of the workshop](https://resourceful-workshop.github.io/resourceful-2023/) explored the role of the kind and the quality of resources that are available to us and challenges and directions for constructing new resources in light of the current trends in natural language processing where language models (seem to) signficiant amounts of knowledge that had to be tradiitonally annotated. It was co-located with [the 24th Nordic Conference on Computational Linguistics (NoDaLiDa)](https://www.nodalida2023.fo/nodalida-2023-tórshavn-faroe-islands), Tórshavn, Faroe Islands.
 
-The next edition of the workshop is planned to focus on data-driven and expert-based types of resources in light of the dominance of the former in natural language processing and computational linguistics in general and the increasing interest in expert-annotated resources. We are particularly interested in how the two can be brought together to (computationally) solve linguistic problems for different languages.
+[The third edition of the workshop](https://resourceful-workshop.github.io/resourceful-2025/) focused on the relation between data-driven and expert-based types of resources in natural language processing at the time of the dominance of the former and an increasing interest for expert-annotated resources for evaluation of trained models. The workshop identified synergies between data-driven and human collected resources, for example for model training and evaluation and vice-versa for answering linguistic and socio-lingustic questions.
+
+Currently, we are planning the fourth edition of the workshop where we will discuss the changes in approaches and methods of resource creation when LLMs have absorbed tons of publically available data and the boundaries between training and evaluation have become blurred. In parallel, synthetic linguistic data is used for creation of new linguistic materials for the models. The workshop will address methods for evaluation of models through resources, ensuring data transparency, ethical considerations, and preserving the integrity of linguistic resources.
 
 
 ## ACL Anthology
 
+The workshop proceedings are published in the [ACL Anthology](https://aclanthology.org/venues/resourceful/) and [NEALT Proceedings](https://nealt-org.github.io/proceedings/)
+
   - [Proceedings of the Second Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2023)](https://aclanthology.org/volumes/2023.resourceful-1/)
+  - [Proceedings of the Third Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025)](https://aclanthology.org/volumes/2025.resourceful-1/) and [NEALT](https://dspace.ut.ee/collections/07b1b4a0-f4ef-4bb7-95c0-5096c8b048dd)
 
 ## Interest group
 
