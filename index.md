@@ -16,11 +16,11 @@ The RESOURCEFUL workshop series is an active research initiative that aims to br
 
 [The first workshop](https://gu-clasp.github.io/resourceful-2020/) focused on the size of resources available for natural language processing and approaches of dealing with data bottlenecks. It was co-located with [the 8th Swedish Language Technology Conference (SLTC)](https://spraakbanken.gu.se/en/sltc2020), University of Gothenburg, Sweden.
 
-[The second edition of the workshop](https://resourceful-workshop.github.io/resourceful-2023/) explored the role of the kind and the quality of resources that are available to us and challenges and directions for constructing new resources in light of the current trends in natural language processing where language models (seem to) signficiant amounts of knowledge that had to be tradiitonally annotated. It was co-located with [the 24th Nordic Conference on Computational Linguistics (NoDaLiDa)](https://www.nodalida2023.fo/nodalida-2023-tórshavn-faroe-islands), Tórshavn, Faroe Islands.
+[The second edition of the workshop](https://resourceful-workshop.github.io/resourceful-2023/) explored the role of the kind and the quality of resources that are available to us and challenges and directions for constructing new resources in light of the current trends in natural language processing where language models (seem to) traditionally amounts of knowledge that had to be traditionally annotated. It was co-located with [the 24th Nordic Conference on Computational Linguistics (NoDaLiDa)](https://www.nodalida2023.fo/nodalida-2023-tórshavn-faroe-islands), Tórshavn, Faroe Islands.
 
-[The third edition of the workshop](https://resourceful-workshop.github.io/resourceful-2025/) focused on the relation between data-driven and expert-based types of resources in natural language processing at the time of the dominance of the former and an increasing interest for expert-annotated resources for evaluation of trained models. The workshop identified synergies between data-driven and human collected resources, for example for model training and evaluation and vice-versa for answering linguistic and socio-lingustic questions.
+[The third edition of the workshop](https://resourceful-workshop.github.io/resourceful-2025/) focused on the relation between data-driven and expert-based types of resources in natural language processing at the time of the dominance of the former and an increasing interest for expert-annotated resources for evaluation of trained models. The workshop identified synergies between data-driven and human collected resources, for example for model training and evaluation and vice-versa for answering linguistic and socio-linguistic questions.
 
-Currently, we are planning the fourth edition of the workshop where we will discuss the changes in approaches and methods of resource creation when LLMs have absorbed tons of publically available data and the boundaries between training and evaluation have become blurred. In parallel, synthetic linguistic data is used for creation of new linguistic materials for the models. The workshop will address methods for evaluation of models through resources, ensuring data transparency, ethical considerations, and preserving the integrity of linguistic resources.
+Currently, we are planning the fourth edition of the workshop where we will discuss the changes in approaches and methods of resource creation when LLMs have absorbed tons of publicly available data and the boundaries between training and evaluation have become blurred. In parallel, synthetic linguistic data is used for creation of new linguistic materials for the models. The workshop will address methods for evaluation of models through resources, ensuring data transparency, ethical considerations, and preserving the integrity of linguistic resources.
 
 
 ## ACL Anthology
@@ -32,7 +32,6 @@ The workshop proceedings are published in the [ACL Anthology](https://aclantholo
 
 ## Interest group
 
-Mattias Appelgren, CLASP, University of Gothenburg, mattias.appelgren@gu.se  
 Špela Arhar Holdt, University of Ljubljana, spela.arharholdt@ff.uni-lj.si  
 Micaella Bruton, Uppsala University, micaella.bruton@ling.su.se  
 Dana Dannélls, Språkbanken Text, University of Gothenburg, dana.dannells@svenska.gu.se  
