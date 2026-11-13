@@ -40,8 +40,8 @@ Nikolai Ilinykh, CLASP, University of Gothenburg, nikolai.ilinykh@gu.se
 Crina Madalina Tudor, Stockholm University, crina.tudor@ling.su.se  
 Beáta Megyesi, Stockholm University, beata.megyesi@ling.su.se  
 Joakim Nivre, RISE and Uppsala University, joakim.nivre@lingfil.uu.se  
-Iben Nyholm Debess, The University of the Faroe Islands, IbenND@setur.fo
-Bolette Sandford Pedersen, University of Copenhagen, NordForsk CAALLM project, bspedersen@hum.ku.dk
+Iben Nyholm Debess, The University of the Faroe Islands, IbenND@setur.fo  
+Bolette Sandford Pedersen, University of Copenhagen, NordForsk CAALLM project, bspedersen@hum.ku.dk  
 Barbara Scalvini, The University of the Faroe Islands, barbaras@setur.fo  
 Sara Stymne, Uppsala University, sara.stymne@lingfil.uu.se  
 Jörg Tiedemann, University of Helsinki,  jorg.tiedemann@helsinki.fi  
